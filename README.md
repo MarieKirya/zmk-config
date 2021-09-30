@@ -1,7 +1,9 @@
 # Naked60BMP Config
 
 See Actions runs for firmware downloads. 
+
 Shield comes from @xiushak's [ZMK PR](https://github.com/zmkfirmware/zmk/pull/681).
+
 Workflow setup comes from @helen's [config repo](https://github.com/helen/zmk-config)
 
 ## Naked60BMP
