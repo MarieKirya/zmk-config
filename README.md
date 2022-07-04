@@ -2,10 +2,6 @@
 
 See Actions runs for firmware downloads. 
 
-Shield comes from @xiushak's [ZMK PR](https://github.com/zmkfirmware/zmk/pull/681).
-
-Workflow setup comes from @helen's [config repo](https://github.com/helen/zmk-config)
-
 ## Naked60BMP
 
 ### Layer 0
@@ -21,8 +17,8 @@ Workflow setup comes from @helen's [config repo](https://github.com/helen/zmk-co
 
 |  F1   |  F2  |  F3  |  F4  |  F5  |  F6  |       |       |   F7  |  F8   |  F9  | F10  |  F11  |  F12  |
 |-------|------|------|------|------|------|-------|-------|-------|-------|------|------|-------|-------|
-|       | PGUP | UP   | PGDN | HOME |      |       |       |       | KP 7  | KP 8 | KP 9 | KP *  |  DEL  |
-|       | LEFT | DOWN | RGHT | END  | DEL  |       |       |       | KP 4  | KP 5 | KP 6 | KP /  | KPENT |
+|   `   | PGUP | UP   | PGDN | HOME |      |       |       |       | KP 7  | KP 8 | KP 9 | KP *  |  DEL  |
+|   ~   | LEFT | DOWN | RGHT | END  | DEL  |       |       |       | KP 4  | KP 5 | KP 6 | KP /  | KPENT |
 |       | PREV | PLY  | NEXT | VOL- | VOL+ |       |       |       | KP 1  | KP 2 | KP 3 | KP -  |       |
 |       |      |      |      |      |      |       |       |       | KP +  | KP 0 | KP . |       |       |
 
